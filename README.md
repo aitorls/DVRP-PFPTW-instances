@@ -1,12 +1,12 @@
 # DVRP-FPTW-instances
-In this repostory there are the benchmark instances to test the DVRPFPTW.
+In this repository, there are benchmark instances to test the DVRPFPTW.
 
-## Dependecies
+## Dependencies
 Works with Python 3.8+ and only depends on numpy.
 
 ## Example usage
 
-To read the instances you must import numpy libary for python and following the next procedure:
+To read the instances you must import numpy library for Python and follow the next procedure:
 ```python
 import numpy as np
 
